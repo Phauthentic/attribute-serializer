@@ -1,0 +1,4 @@
+/bin
+/vendor
+.phpunit.result.cache
+.phpunit.cache
